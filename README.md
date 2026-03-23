@@ -25,11 +25,11 @@ This project uses a Convolutional Neural Network (CNN) to classify brain MRI ima
 
 ## Output Samples
 
-![Sample1](images/sample1.png)
-![Sample2](images/sample2.png)
-![Sample3](images/sample3.png)
-![Sample4](images/sample4.png)
-![Sample5](images/sample5.png)
+![Input MRI Image](images/input_mri_image.png)
+![Sample Test Image](images/sample_test_image.png)
+![Prediction Result](images/prediction_result.png)
+![Prediction vs Actual](images/prediction_vs_actual.png)
+![Model Output](images/model_output.png)
 
 ---
 
